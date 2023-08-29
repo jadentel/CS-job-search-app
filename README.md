@@ -1,2 +1,2 @@
-# CS-job-search-app
-a job finding app made by flutter.
+# CS-job-search-website
+a job finding website made by Django.
